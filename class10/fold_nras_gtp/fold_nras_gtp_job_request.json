@@ -1,0 +1,21 @@
+[{
+ "name": "nras_gtp",
+ "modelSeeds": [
+  "1474073283"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNSKSFADINLYREQIKRVKDSDDVPMVLVGNKCDLPTRTVDTKQAHELAKSYGIPFIETSAKTRQGVEDAFYTLVREIRQYRMKKLNSSDDGTQGCMGLPCVVM",
+    "count": 1
+   }
+  },
+  {
+   "ligand": {
+    "ligand": "CCD_GTP",
+    "count": 1
+   }
+  }
+ ]
+}
+]
