@@ -3,10 +3,10 @@
 
 My classwork for [BIMM143 Spring 2024](https://bioboot.github.io/bimm143_S24/) at UC San Diego
 
-- **Class 5** [Data visualization with ggplot](https://github.com/mckenziemmai/bimm143/blob/main/class05/class05.pdf)
+- **Class 5** [Data visualization with ggplot](class05/class05.md)
 
 
-- **Class 6** [Data visulaization with ggplot]()
+- **Class 6** [R Functions]()
 
 - **Class 7** [Data visulaization with ggplot]()
 
