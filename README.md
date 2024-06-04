@@ -6,7 +6,7 @@ My classwork for [BIMM143 Spring 2024](https://bioboot.github.io/bimm143_S24/) a
 - **Class 5** [Data visualization with ggplot](class05/class05.md)
 
 
-- **Class 6** [Data visulaization with ggplot]()
+- **Class 6** [R Functions]()
 
 - **Class 7** [Data visulaization with ggplot]()
 
