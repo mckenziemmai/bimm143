@@ -1,7 +1,7 @@
 ---
 title: "Class 8: Breast Cancer Mini Project"
 author: "McKenzie Mai (A16646664)"
-format: pdf
+format: gfm
 ---
 
 ## About
