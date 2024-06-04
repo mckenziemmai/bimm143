@@ -36,16 +36,16 @@ km
 
     Cluster means:
               x         y
-    1  3.007261 -3.238441
-    2 -3.238441  3.007261
+    1 -3.061048  2.949997
+    2  2.949997 -3.061048
 
     Clustering vector:
-     [1] 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1
-    [39] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+     [1] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2
+    [39] 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
 
     Within cluster sum of squares by cluster:
-    [1] 89.43372 89.43372
-     (between_SS / total_SS =  86.7 %)
+    [1] 58.10646 58.10646
+     (between_SS / total_SS =  90.3 %)
 
     Available components:
 
@@ -78,8 +78,8 @@ km$size
 km$cluster
 ```
 
-     [1] 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 1 1 1
-    [39] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+     [1] 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2
+    [39] 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
 
 > Q. What are centers/mean values of each cluster?
 
@@ -88,8 +88,8 @@ km$centers
 ```
 
               x         y
-    1  3.007261 -3.238441
-    2 -3.238441  3.007261
+    1 -3.061048  2.949997
+    2  2.949997 -3.061048
 
 > Q. Make a plot of your data showing your clustering results
 > (groupings/clusters and cluster centers).
