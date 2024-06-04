@@ -6,16 +6,16 @@ My classwork for [BIMM143 Spring 2024](https://bioboot.github.io/bimm143_S24/) a
 - **Class 5** [Data visualization with ggplot](class05/class05.md)
 
 
-- **Class 6** [R Functions]()
+- **Class 6** [R Functions](class06/class06.md)
 
-- **Class 7** [Data visulaization with ggplot]()
+- **Class 7** [Something]()
 
-- **Class 8** [Data visulaization with ggplot]()
+- **Class 8** [Something]()
 
-- **Class 9** [Data visulaization with ggplot]()
+- **Class 9** [Something]()
 
-- **Class 10** [Data visulaization with ggplot]()
+- **Class 10** [Something]()
 
-- **Class 11** [Data visulaization with ggplot]()
+- **Class 11** [Something]()
 
-- **Class 12** [Data visulaization with ggplot]()
+- **Class 12** [Something]()
